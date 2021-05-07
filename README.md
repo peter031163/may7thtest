@@ -2,4 +2,5 @@
 * this is a list 1 
 *  this is a list 2
 *  
-![] (dogcat (2).jpg)
+![](dogcat (2).jpg)
+![](sentosa.jpg)
