@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Raining Cats & Dogs Hotel</title>
+ <link rel="stylesheet" href="style.css">
+ </head>
+<img src="raing_cats_dogs (2).jpg" width="360" height="270">
+
+<body>
+  <h1>raining cats & dogs hotel<h1>
+	<h2>
+  <p>We take your pets seriously...</p>
+  <p>When it rains outside...</p>
+  <p>We offer the umbrella!</p></h2>
+
+	<h4>Located in the estate of the East Coast area of Singapore, Raining Cats & Dogs is nestled in a quiet nook off Frankel Avenue. Our beautiful hotel takes inspiration from our foundation to serve.</h4>
+<br>
+<h2><em>Our Mission:</em></h2>
+<h4>To provide peace of mind to our valued clients through exceptional pet care service executiong our core values of :
+<p><strong>Excellence,      Integrity,        Responsibility</strong></h4>
+<br>
+<h2><em>Our Vision:</em></h2> 
+<h4>Partner of choice for our every pet lover in the community</h4>
+<br>
+<br>
+<h3><em>Size Doesn't Matter!</em></h3>
+<h4>Services fit all sizes of "PAWS & MEOWS"</h4>
+<BR>
+<h3>Infrastructure</h3>
+<ul>
+  <li>16-kennel buildup space</li>
+  <li>Aluminum kennel for anti-bateria</li>
+  <li>Artificial wading pool for dogs</li>
+  <li>24 hour CCTV monitoring</li>
+  <br>
+  <h3>Staff Handlers</h3>
+  <li>Dedicated in-housed trained</li>
+  <br>
+<h3>System Culture</h3>
+<li>Dogs: daily walks, free roam time</li>
+<li>Cats: allowed to roam in designated hot spots</li>
+<br>
+<h3>Social Responsibility</h3>
+<li>Partner neighborhood vets for emergency</li>
+<li>Use leading pet food brands for nutrition</li>
+<li>Accident insurance coverage for guest pets</li>
+</ul> 
+<h3>Where to find us:</h3>
+<img src="pets-hotel-sign_318-51248.png" width="120" height="90">
+Google Map:<a href="https://www.google.com/search?q=googlemap singaore 456984">21 Keris Drive Singapore 456984</a>.
+<h3>Our contact:</h3>
+<h4>
+  <p>21 Keris Drive</p>
+  <p>Singapore 456984</p>
+  <p>Cell: 65-90935209</p>
+  <p>email:psimsk0311@gmail.com</p>
+  </h4>
+  <br>
+  <h3><strong>Your feedback is important to us</strong></h3>
+  <form action="psim.php" method="get">
+    <p>Name:</p>
+    <p><input name="name" value="Your name"></p>
+    <p.Email:</p>
+    <p><input name="email" value="Your email"></p>
+    <p>Comments:</p>
+    <p><textarea rows="10" cols="20" name="comments">Your comments</textarea></p>
+    <p>Is your pet a :</p>
+    <p><input type="radio" name="is your pet a" value="dog">Dog</p>
+    <p><input type="radio" name="is your pet a" value="cat">Cat</p>
+    <p><input type="submit"></p>
+    </form>
+
+    <h1>Page 2 - click here:- <a href="Do_You_Know.html">Hollywood Celebs & their pets</a></h1>
+  </body>
+</html>
+
+
+
